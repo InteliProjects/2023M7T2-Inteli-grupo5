@@ -1,0 +1,36 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.14.9",
+    "@mui/material": "^5.14.10",
+    "apexcharts": "^3.43.0",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "feather-icons-react": "^0.6.2",
+    "heroicons-react": "^1.4.1",
+    "next": "13.5.2",
+    "parquetjs": "^0.11.2",
+    "parquetjs-react": "^0.8.2",
+    "postcss": "8.4.30",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "react-modal": "^3.16.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}

@@ -1,0 +1,11 @@
+*.csv
+*.xls
+*.xlsx
+*.tsv
+*.zip
+*.env
+__pycache__/
+node_modules/
+venv/
+/notebooks/betinho/raw_data/
+/notebooks/betinho/reduced_data2/
